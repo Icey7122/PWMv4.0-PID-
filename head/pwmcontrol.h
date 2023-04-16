@@ -1,0 +1,1 @@
+void PWMfreanddut(unsigned int freanddut,unsigned char dec,unsigned char FD);
